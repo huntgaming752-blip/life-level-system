@@ -1,7 +1,8 @@
 {
   "name": "Dopamine Discipline",
   "short_name": "Discipline",
-  "start_url": "/life-level-system/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0f0f0f",
   "theme_color": "#0f0f0f",
