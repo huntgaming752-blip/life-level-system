@@ -1,12 +1,10 @@
 {
-  "name": "Dopamine Discipline",
-  "short_name": "Discipline",
-  "start_url": "./",
-  "scope": "./",
+  "name": "LevelUp",
+  "short_name": "LevelUp",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#0f0f0f",
-  "theme_color": "#0f0f0f",
-  "orientation": "portrait",
+  "background_color": "#0f0f14",
+  "theme_color": "#0f0f14",
   "icons": [
     {
       "src": "icon-192.png",
